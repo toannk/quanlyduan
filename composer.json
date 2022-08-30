@@ -1,0 +1,12 @@
+{
+    "name": "toannk/quanlyduan",
+    "authors": [
+        {
+            "name": "Toan Nguyen",
+            "email": "toannk@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
